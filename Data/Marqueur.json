@@ -1,0 +1,70 @@
+markers = [
+	{
+	"name": "Saint-Malo",
+	"url": "https://fr.wikipedia.org/wiki/Saint-Malo",
+	"lat": 48.6500000,
+	"lng": -2.0166700,
+    "pop": 45719
+	},
+
+	{
+	"name": "Quimper",
+	"url": "https://fr.wikipedia.org/wiki/Quimper",
+	"lat": 47.9960325,
+	"lng": -4.1024782,
+    "pop": 63508
+	},
+
+	{
+	"name": "Brest",
+	"url": "https://fr.wikipedia.org/wiki/Brest",
+	"lat": 48.3905283,
+	"lng": -4.4860088,
+    "pop": 139163
+	},
+
+	{
+	"name": "Le Havre",
+	"url": "https://www.lehavre.fr/",
+	"lat": 49.4938,
+	"lng": 0.1077,
+    "pop": 233414
+	},
+
+    {
+	"name": "Rennes",
+	"url": "https://www.Rennes.fr/",
+	"lat": 48.117266,
+	"lng": -1.6777926,
+    "pop": 215366
+	},
+
+    {
+    "name": "Orcières",
+    "url": "https://fr.wikipedia.org/wiki/Orcières",
+   "lat": 44.6833203,
+    "lng": 6.3267475,
+    "pop": 715
+    },
+
+
+    {
+
+    "name": "Super Besse",
+    "url": "https://fr.wikipedia.org/wiki/Super-Besse",
+    "lat": 45.5093,
+     "lng": 2.854690000000005,
+    "pop": 1476
+
+     },
+
+     {
+    "name": "Valparaiso",
+    "url": "https://fr.wikipedia.org/wiki/Valpara%C3%ADso",
+    "lat": -33.047237,
+     "lng": -71.612686,
+    "pop": 295113
+        
+     }
+
+];
